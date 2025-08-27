@@ -95,7 +95,7 @@ WHERE MONTH(submission_date) = 3;
 
 
 ![App Screenshot](screenshots/demo1.png)
-![App Screenshot](screenshots/demo2.png)
+![App Screenshot](screenshots/demo7.png)
 ![App Screenshot](screenshots/demo3.png)
 ![App Screenshot](screenshots/demo4.png)
 ![App Screenshot](screenshots/demo5.png)
